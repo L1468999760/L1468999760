@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome!
 
 <!--
 **L1468999760/L1468999760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=L1468999760)
+<div float:left> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=L1468999760&theme=default&show_icons=true" /> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1468999760&layout=compact" /> 
+</div>
+
+<div > <img src="https://visitor-badge.glitch.me/badge?page_id=L1468999760" /> </div>
+
 
