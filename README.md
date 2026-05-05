@@ -1,7 +1,7 @@
 <h1 align="left">Welcome!👋</h1>
 
 <div>
-  <img align="right" height="135px" src="https://github-readme-stats.vercel.app/api?username=l1468999760&show_icons=true&hide_rank=true" alt="l1468999760" />
+  <img align="right" height="135px" src="https://github-stats-extended.vercel.app/api?username=l1468999760&show_icons=true&hide_rank=true" alt="l1468999760" />
 
 - ✉ How to contact me **jnli1998@outlook.com**
 - 🔗 My blog **https://blog.lijinning.top**
